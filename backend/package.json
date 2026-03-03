@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prakant sharma",
+  "license": "ISC",
+  "description": "clone of version control",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
+}
